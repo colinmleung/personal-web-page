@@ -1,30 +1,51 @@
 ﻿$(document).ready(function(){
-	$("#aboutlink").addClass('selected');
-	$("#about").show();
-	$("#resume").hide();
-	$("#projects").hide();
+	$("#homelink").addClass('selected');
+	$("#homelink").click(function(){
+		$("#homelink").addClass('selected');
+		$("#aboutlink").removeClass('selected');
+		$("#resumelink").removeClass('selected');
+		$("#projectslink").removeClass('selected');
+		$("#bloglink").removeClass('selected');
+		$("#contactlink").removeClass('selected');
+	});
 	$("#aboutlink").click(function(){
-		$("#about").show();
-		$("#resume").hide();
-		$("#projects").hide();
+		$("#homelink").removeClass('selected');
 		$("#aboutlink").addClass('selected');
 		$("#resumelink").removeClass('selected');
 		$("#projectslink").removeClass('selected');
+		$("#bloglink").removeClass('selected');
+		$("#contactlink").removeClass('selected');
 	});
 	$("#resumelink").click(function(){
-		$("#about").hide();
-		$("#resume").show();
-		$("#projects").hide();
+		$("#homelink").removeClass('selected');
 		$("#aboutlink").removeClass('selected');
 		$("#resumelink").addClass('selected');
 		$("#projectslink").removeClass('selected');
+		$("#bloglink").removeClass('selected');
+		$("#contactlink").removeClass('selected');
 	});
 	$("#projectslink").click(function(){
-		$("#about").hide();
-		$("#resume").hide();
-		$("#projects").show();
+		$("#homelink").removeClass('selected');
 		$("#aboutlink").removeClass('selected');
 		$("#resumelink").removeClass('selected');
 		$("#projectslink").addClass('selected');
+		$("#bloglink").removeClass('selected');
+		$("#contactlink").removeClass('selected');
+	});
+	$("#bloglink").click(function(){
+		$("#homelink").removeClass('selected');
+		$("#aboutlink").removeClass('selected');
+		$("#resumelink").removeClass('selected');
+		$("#projectslink").removeClass('selected');
+		$("#bloglink").addClass('selected');
+		$("#contactlink").removeClass('selected');
+	});
+	$("#contactlink").click(function(){
+		$("#homelink").removeClass('selected');
+		$("#aboutlink").removeClass('selected');
+		$("#resumelink").removeClass('selected');
+		$("#projectslink").removeClass('selected');
+		$("#bloglink").removeClass('selected');
+		$("#contactlink").addClass('selected');
 	});
 });

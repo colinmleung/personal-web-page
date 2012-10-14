@@ -1,8 +1,8 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 	<head>
-		<link href='http://fonts.googleapis.com/css?family=Wire+One' rel='stylesheet' type='text/css'>
-		<title>cmlCase | the personal website of colin m leung</title>
+		<link href='http://fonts.googleapis.com/css?family=Josefin+Slab:100|Open+Sans:700,300' rel='stylesheet' type='text/css'>
+		<title>colin m leung</title>
 		<meta charset="utf-8"/>
 		<meta name="robots" content="index, follow, noarchive"/>
 		<meta name="googlebot" content="noarchive"/>
@@ -10,25 +10,30 @@
 	</head>
 	<body>
 		<header>
-			<h1>cmlCase | the personal website of colin m leung</h1>
+			<div id="firstName">
+				<h1 id="firstNameInitial">c</h1>
+				<h1 id="firstNameRest">olin</h1>
+			</div>
+			<div id="middleName">
+				<h1 id="middleNameInitial">m</h1>
+			</div>
+			<div id="lastName">
+				<h1 id="lastNameInitial">l</h1>
+				<h1 id="lastNameRest">eung</h1>
+			</div>
 		</header>
 		<nav>
 			<ul>
-				<li><a href="index.html">About</a></li>
-				<li><a href="resume.html">Resume</a></li>
-				<li><a href="projects.html">Projects</a></li>
+				<li><a class="current" href="index.html">home</a></li>
+				<li><a href="about.html">about</a></li>
+				<li><a href="resume.html">resume</a></li>
+				<li><a href="projects.html">projects</a></li>
+				<li><a href="blog.html">blog</a></li>
+				<li><a href="contact.html">contact</a></li>
 			</ul>
 		</nav>
-		<div id="bodycontent">
-			<div id="about">
-				<p>Hi there. I'm Colin, and this is my personal webpage. I'm a 5th year student at the University of British Columbia, studying engineering physics. And although I go to class to study <a href="http://mathworld.wolfram.com/BranchCut.html">complex analysis</a> or <a href="http://en.wikipedia.org/wiki/Dipole_antenna">dipole antennas</a>, I'm much more interested in building web applications.</p>
-				<p>I'm working at <a href="http://www.broadcom.com/">Broadcom</a>, where I measure power consumption for our system-on-chips.</p>
-				<p>I'm currently reading <a href="http://shop.oreilly.com/product/9780596157142.do">Learning PHP, MySQL, and Javascript</a>.</p>
-			</div>
-		</div>
-		<footer>
-			<a href="mailto:colinmleung@gmail.com">colinmleung@gmail.com</a>
-		</footer>
+		<img id="logo" src="drawing5.png" height="50" width="55"/>
 		<script type="text/javascript" src="jquery-1.8.1.min.js"></script>
+		<script type="text/javascript" src="common.js"></script>
 	</body>
 </html>

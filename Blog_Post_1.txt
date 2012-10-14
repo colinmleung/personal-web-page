@@ -1,0 +1,158 @@
+Blog Post #1: The Work Journal
+
+	INTRODUCTION
+
+Hi, everyone. It's my first blog post, yay! The first of many to come, I hope. If you're like me, you may find yourself with lots of ideas you want to implement, but not enough focus or energy after work to actually do this. So today, I'll be writing about a productivity booster I've recently adopted: the work journal.
+
+Now in engineering school, they always tell you keep a lab book nice and tidy, filled with extensive documentation (of course). Well, let's go over what you need.
+
+-writing implement
+-notebook
+
+(picture of pencil and notebook) That's all you need.
+
+With your equipment, now you can start writing. But what will you write about? Anything, actually. But I suppose that's not really actionable advice. So I'll tell you what I do.
+	
+	PURPOSE OF THE WORK JOURNAL
+
+There are three major recurring sections in my work journal. The first one is planning, which is pretty self-explanatory. This ranges in scope from todo lists to project planning. 
+
+Everyone plans in one form or another, but what separates my work journal from other methods is reflection and issue resolution. Let's talk about reflection first. Most people can do things like check off tasks in their todo list, but they don't stop to consider the structure around them that allows them to complete some tasks, and not be able to complete other ones. The reflection phases makes you ask some tough questions. Did you complete this task on time? Is it of the quality you desire? Were there any issues in completing this task? Why did you feel you were able to finish it, or if not, why not?
+
+The next step is issue resolution. This is where you take all the answers in Reflection, and use it to fashion a plan to get rid of bad patterns and adopt better ones.
+
+	EXAMPLE: MY WORK JOURNAL (OCTOBER 7th)
+
+Let me tear off a page from my work journal to really make these concepts concrete.
+
+		PLANNING
+
+I like to divide my work journal by arbitrary time scales (day, week, month, semester). Then, I plan out milestones for each of these scales. Today is October 7th, so I currently have plans for today (October 7th), this week (October 1st week), this month (October), and this semester (Fall 2012).
+
+Let's start with the longest time-scale I have, this semester (Fall 2013).
+This semester, I have four distinct "themes" (listed in order of priority [this is important]):
+
+1. Become better at web programming
+2. Get a good internship for Spring 2013 (completed)
+3. Get better at general programming
+4. Fitness
+
+The reason it's important to have a stack ranking system is so that if you have a time constraint and too many tasks to handle, you complete the tasks associated with theme #1 first, with no thought on your part.
+
+Each of these "themes" has targets:
+
+1. Become better at web programming
+
+Well this isn't hard, but I've set the standard a bit higher than just "better". My milestones are to 
+
+	1. a non-trivial Javascript application
+	2. develop my own personal website
+	3. be aware of web development concepts like design, security, best-practices
+
+This is also in order of priority, for the reasons mentioned above.
+
+2. Get a good internship for Spring 2013 (completed)
+
+	Not much to say here, since this task is simple and also done.
+
+3. Get better at general programming
+
+	1. Read Thinking in Java 4
+	2. Read Head First Design Patterns
+	3. Read Cracking the Coding Interview
+
+4. Fitness
+
+	1. Work out everyday
+	2. No pop, no caffeine, much less sugar
+
+So now we've covered all the things that I want to accomplish this semester (yeah, so maybe it's a bit too much, pressure is fine in moderate amounts)
+
+At the beginning of the semester (early September), it's important to plan out how you want to distribute these tasks in monthly chunks. Let's see how I do this using the personal website milestone:
+
+September:
+	-get a domain name and hosting, and learn to set up a website
+	-learn some basic HTML and CSS to make a webpage
+
+October:
+	-investigate some basic design concepts to make the website look aesthetically appealing
+	-fill the website up with relevant content
+
+[November:
+	-refactor the site, using HTML, CSS, and Javascript best-practices
+	-continue developing content and designing for the site
+
+December:
+	-continue developing content for the site
+	-consider creating a custom management system for the site] candidate for deletion
+
+Let's focus on October:
+
+	Week 1:
+		-read a web design book and take design notes for the personal website
+		-create a preliminary design for the personal web page and implement it
+
+	Week 2:
+		-write your first blog post and add it to the blog section
+		-add the about, contact, and resume sections of the website
+	
+	[Week 3:
+		-add content to the projects section
+		-continue reading web design books
+		-second blog post] candidate for deletion
+
+	Week 4:
+		-third blog post
+
+	Week 5:
+		-fourth blog post] candidate for deletion
+
+October 7th:
+
+	-write the final copy of the blog post
+	-
+
+[You may notice how it seems we need a large amount of detail just to make some high-level plans. Be reassured that all these plans are just estimates of possible tasks. If you get too far ahead of the plan, add more tasks. If you're too far behind, go ahead and take stuff off. The plans should get more accurate the closer you actually get to implementing the tasks (based on the principle that it's easy to plan one day ahead, but not one month ahead).] candidate for deletion
+
+You may have noticed how plans are only made up to the latest unit. Lots of things can happen while you're working, so I don't find it useful to plan details in advance. Based on the principle that it's easy to plan one day ahead, but not one month ahead. When one day goes by, I'll revise my goals for tomorrow. As a week passes, I'll make my plans for next week based on what I learned this week.
+
+		REFLECTION and ISSUE RESOLUTION
+
+Reflection happens at the end of every time unit. Daily, weekly, monthly reflection. As the time unit grows larger, the questions get deeper and more meaningful.
+
+		daily reflection
+
+	This reflection is of the more standard reflection with checkmarks and such. One should not be questioning their existence everyday or nothing would get done. 		What were you supposed to do today?
+	What did you do today?
+	If you didn't accomplish a task, why didn't or weren't you able to do it?
+
+The daily reflection is mostly to gather minute data points for further pattern matching later on.
+
+		weekly reflection
+
+	What were you supposed to do this week?
+	Did you get those tasks done?
+	If not, why not?
+	Depending on the reason, what measures will you take to prevent this from being an issue in the future?
+
+The weekly reflection is where we really start to ask ourselves how we can prevent bad habits in the future.
+
+		Monthly reflection
+
+	What were you supposed to do this month?
+	What did you actually do this month?
+	If you didn't get what you wanted to complete done, why not?
+	Depending on the reason, what measures will you take to prevent this from being an issue in the future?
+	Are there any large scale changes you want to make or have made? Why so?
+
+The monthly reflection is where you start questioning the planning process and how you can plan more effectively in the future.
+
+		Semester reflection
+
+	All of the above
+	Is this what you want to be doing?
+	If not, why not?
+
+CONCLUSION
+
+Now this seems like a lot of writng to be done. But it doesn't happen all at once. With time, most of these questions will be asked instinctively, and you won't have to write as much down. They key here is awareness of bad habits, bad planning practices, and the unability to work on what you actually want to be working on.

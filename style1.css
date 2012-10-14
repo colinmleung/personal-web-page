@@ -1,4 +1,4 @@
-﻿/* CSS for colinmleung.com */
+/* CSS for colinmleung.com */
 
 nav {
 	font-family: 'Josefin Slab', serif;
@@ -11,7 +11,7 @@ header {
 	position: absolute;
 	font-size: 2em;
 	top: 250px;
-	left: 140px;
+	left: 150px;
 }
 
 #firstName, #middleName, #lastName {
@@ -86,13 +86,23 @@ a:hover, a:active, a.current {
 
 #logo {
 	position: absolute;
-	top: 275px;
-	left: 600px;
+	top: -225px;
+	left: -63px;
 }
 
 #logotype {
 	position: absolute;
 	font-size: 0.5em;
-	top: -250px;
+	top: -232px;
 	left: -125px;
+}
+
+#bodycontent {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	position: absolute;
+	top: 85px;
+	left: 170px;
+	max-width: 600px;
 }
