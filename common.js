@@ -1,0 +1,30 @@
+﻿$(document).ready(function(){
+	$("#aboutlink").addClass('selected');
+	$("#about").show();
+	$("#resume").hide();
+	$("#projects").hide();
+	$("#aboutlink").click(function(){
+		$("#about").show();
+		$("#resume").hide();
+		$("#projects").hide();
+		$("#aboutlink").addClass('selected');
+		$("#resumelink").removeClass('selected');
+		$("#projectslink").removeClass('selected');
+	});
+	$("#resumelink").click(function(){
+		$("#about").hide();
+		$("#resume").show();
+		$("#projects").hide();
+		$("#aboutlink").removeClass('selected');
+		$("#resumelink").addClass('selected');
+		$("#projectslink").removeClass('selected');
+	});
+	$("#projectslink").click(function(){
+		$("#about").hide();
+		$("#resume").hide();
+		$("#projects").show();
+		$("#aboutlink").removeClass('selected');
+		$("#resumelink").removeClass('selected');
+		$("#projectslink").addClass('selected');
+	});
+});
