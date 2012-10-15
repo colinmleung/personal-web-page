@@ -2,14 +2,12 @@ Blog Post #1: The Work Journal
 
 	INTRODUCTION
 
-Hi, everyone. It's my first blog post, yay! The first of many to come, I hope. If you're like me, you may find yourself with lots of ideas you want to implement, but not enough focus or energy after work to actually do this. So today, I'll be writing about a productivity booster I've recently adopted: the work journal.
+Hi, everyone. It's my first blog post, yay! The first of many to come, I hope. If you're like me, you may find yourself with lots of ideas you want to implement, but not enough focus or energy after work to actually do this. So today, I'll be writing about a tool I've recently adopted to help me with these issues: the work journal.
 
 Now in engineering school, they always tell you keep a lab book nice and tidy, filled with extensive documentation (of course). Well, let's go over what you need.
 
 -writing implement
 -notebook
-
-(picture of pencil and notebook) That's all you need.
 
 With your equipment, now you can start writing. But what will you write about? Anything, actually. But I suppose that's not really actionable advice. So I'll tell you what I do.
 	
@@ -110,7 +108,6 @@ Let's focus on October:
 October 7th:
 
 	-write the final copy of the blog post
-	-
 
 [You may notice how it seems we need a large amount of detail just to make some high-level plans. Be reassured that all these plans are just estimates of possible tasks. If you get too far ahead of the plan, add more tasks. If you're too far behind, go ahead and take stuff off. The plans should get more accurate the closer you actually get to implementing the tasks (based on the principle that it's easy to plan one day ahead, but not one month ahead).] candidate for deletion
 
