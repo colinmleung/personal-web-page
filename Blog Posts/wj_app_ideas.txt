@@ -1,0 +1,24 @@
+The Work Journal Web Application - Introduction
+
+Recently, I've been reading books about web programming technologies such as HTML5, CSS3, and PHP. It's certainly a lot to take in, but these are necessary steps to becoming a web developer. I've read that the best way to learn these concepts is to flex your coding muscles and actually start building things. Back in my first blog post, I talked about the benefits of keeping a work journal and gave some implementation tips. I've been brainstorming ideas for a toy web application, and I thought, why not create an online web journal? Well that's exactly what I've been working on for about a month now, so my upcoming blog posts will consitutite a series bringing you through my first hilariously incompetent attempt at building a web application from scratch.
+
+Whenever I start side projects like this (and I've started many), I usualy ask myself a few simple, but key questions.
+
+What exactly am I trying to accomplish?
+
+I want to build a simple, but robust web application that serves as a work journal.
+
+Why am I doing it?
+
+I want to apply the theory I've learnt and use it to build a real application. I hope to learn more about web technologies along the way. There is plenty to learn about application planning and design as well.
+
+How am I going to go about doing it?
+
+I'm planning on using a rapid iterative project planning method. I have little practical experience building web applications, so it'll be useful to quickly weed out futile approaches. I want to gain some experience with development best practices, so I plan to use version control (most likely Git), as well as an automated testing framework (Selenium?).
+
+I'll try to define, in a paragraph or so, what each iteration will add to the project. Then I'll add some relevant wireframes, and perhaps a discussion or two about the technical challenges I faced.
+
+Work Journal Application v0.1
+
+Summary: This iteration will basically act as the foundation for the rest of the application. It'll focus mainly on setting up the servers and dev environment (if it needs to be set up), user authentication, and application security. At the end of this iteration, the web application should allow users to sign up for an account, use that account to log in, and then log out of the application.
+
