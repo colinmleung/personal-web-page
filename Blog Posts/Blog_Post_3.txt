@@ -1,7 +1,0 @@
-Reflection and the Butterfly Effect
-
-I've been thinking about my work processes lately. I've had more than a few process breakdowns recently. Staying up way past bedtime. It really puts a damper on things the next day, waking up at noon, feeling groggy all afternoon, which only leaves the evening for productive work.
-
-But I've been noting all of these things, making some interesting observations. Let me give you an example. Say it's a weekend afternoon, and I'm pretty thirsty, so I take a swig of root beer or something with caffeine. Hey, I'm just trying to maintain my energy, right? So the evening goes by, it's getting late, but the caffeine is still lingering in my system, so I sleep later than usual. Then I get up the next day, probably late, close to noon. Theres the morning gone. Then the afternoon disappears, don't feel like working with a headache. So one cup of coffee leads to about six hours of lost productivity.
-
-So what can we do about it? Well, for one thing, by noticing these cause and effect patterns, we can think about the tradeoffs more clearly.

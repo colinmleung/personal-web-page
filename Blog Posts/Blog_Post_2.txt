@@ -1,3 +1,0 @@
-Building Castles on Clouds
-
-Web development feels like building castles on clouds. To a beginner like me, having to learn HTML, CSS, PHP, MySQL, Javascript, just to do anything slightly interesting is quite daunting. Compared to building desktop applications with Java at least.

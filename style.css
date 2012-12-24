@@ -1,5 +1,9 @@
 ﻿/* CSS for colinmleung.com */
 
+header, nav, section, article, aside, footer {
+   display:block;
+}
+
 nav {
 	font-family: 'Josefin Slab', serif;
 }
@@ -24,37 +28,49 @@ header {
 
 #firstName {
 	top: 0px;
+    *top: 40px;
 	left: 40px;
 }
 
 #middleName {
 	top: -75px;
+    *top: -15px;
 	left: 2px;
 }
 
 #lastName {
 	top: -130px;
+    *top: -70px;
 	left: 80px;
 }
 
 #firstNameInitial {
+    font-size: 2em;
+    position: relative;
 }
 
 #firstNameRest {
 	top: -42px;
+    *top: 0px;
 	left: 33px;
 	font-size: 2em;
 }
 
 #middleNameInitial {
+    font-size: 2em;
+    position: relative;
 }
 
 #lastNameInitial {
+    font-size: 2em;
+    position: relative;
 }
 
 #lastNameRest {
 	top: -42px;
+    *top: 0px;
 	left: 20px;
+    font-size: 2em;
 }
 
 #firstNameRest, #lastNameRest {
