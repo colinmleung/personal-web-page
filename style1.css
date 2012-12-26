@@ -1,5 +1,9 @@
 /* CSS for colinmleung.com */
 
+header, nav, section, article, aside, footer {
+   display:block;
+}
+
 nav {
 	font-family: 'Josefin Slab', serif;
 }
@@ -103,6 +107,7 @@ a:hover, a:active, a.current {
 	font-size: 15px;
 	position: absolute;
 	top: 85px;
+    *top: 100px;
 	left: 170px;
 	max-width: 600px;
 }
